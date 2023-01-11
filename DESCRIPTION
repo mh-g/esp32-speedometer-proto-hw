@@ -1,0 +1,15 @@
+<h1>Prototype hardware for ESP32-based speedometer</h1>
+
+Published under MIT license.
+
+<br><br>
+
+No SMD parts, to be fitted into a 5cm diameter pipe. I2C interface for e.g. BME280 provided. Consider adding a GND pin header to serial interface headers if using the I2C interface.
+
+<br><br>
+
+For use with https://github.com/mh-g/esp32-speedometer
+
+<br><br>
+
+Uses the https://grabcad.com/library/mh-et-esp32-d1-mini-eagle-1 library
